@@ -54,6 +54,11 @@ Layers
     :members:
     :special-members: __call__
 
+`Spatial Transforms`
+~~~~~~~~~~~~~~~~~~~~
+.. autoclass:: monai.networks.layers.AffineTransform
+    :members:
+
 
 Nets
 ----
